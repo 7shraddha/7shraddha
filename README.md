@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7shraddha
-- 👀 I’m interested in data Science, machine learning, and deep learning. 
+- 👀 I’m interested in data science, machine learning, and deep learning. 
 - 🌱 I’m currently learning pytorch and other deep learning libraries.  
 - 💞️ I’m looking to collaborate on application oriented research work. 
 - 📫 How to reach me dm 
